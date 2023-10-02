@@ -1,0 +1,70 @@
+.SignUp{
+    background:white;
+    color: rgb(34, 2, 94);
+    margin: 0 auto;
+    margin-top: 50px;
+    width:500px;
+    height: 600px;
+}
+body{ 
+    background-image: url("https://img.freepik.com/premium-vector/network-connection-background-abstract-style_23-2148875738.jpg"); /* Replace 'your-image-url.jpg' with the actual image file path or URL */
+      background-size: cover; /* Ensures the image covers the entire background */
+      background-repeat: no-repeat;
+}
+.Heading{
+    display:block;
+    margin-left: 150px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+.email{
+    display: block;
+    margin-bottom: 20px;
+}
+.name{
+    display: block;
+    margin-bottom: 20px;
+}
+.dob{
+    display: block;
+    margin-bottom: 20px;
+}
+.pass{
+    display: block;
+    margin-bottom: 20px;
+}
+.Cpass{
+    display: block;
+    margin-bottom: 20px;
+}
+input{
+    width: 400px;
+    height:35px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-right: 100px;
+    background: white;
+    color: rgb(34, 2, 94);
+    border: 1px rgb(34, 2, 94);
+}
+button{
+    width: 400px;
+    height:35px;
+    border-radius: 7px;
+    margin-left: 30px;
+    background: rgb(34, 2, 94);
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.link{
+    padding-top: 15px;
+    padding-left: 10px;
+}
+a{
+    color: rgb(34, 2, 94);
+}
+.Login{
+    display: flex;
+    justify-content: center;
+}

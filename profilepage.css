@@ -1,0 +1,225 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color:white;
+    padding-left: 10px;
+  
+}
+.column{
+width:350px;
+height: 1000px;
+background-color: white;
+float: left;
+
+border: groove;
+ 
+}
+h4{
+    font-size: Arial;
+    font-style: italic;
+}
+.profile{
+    padding-left: 10px;
+}
+.course{
+    padding-left: 10px;
+}
+.name{
+    background-color:white;
+}
+.video{
+width:70%;
+height: 1000px;
+float: right;
+background: white;
+
+
+   
+}
+.tex1{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+a { color: inherit; 
+    text-decoration:none
+    
+} 
+img{
+    width:100px;
+    border-radius: 50% ;
+}
+.menu{
+    display: flex;
+    height: 20px;
+    position: absolute;
+    top: 15px;
+    
+}
+.menu1{
+    height: 0px;
+     padding-top: 50px;
+     padding-bottom: 5px;
+     position: relative;
+    background-color: rgb(106, 113, 170);
+
+        text-decoration: none;
+        color: rgb(20, 1, 1);
+        font-family: Arial;
+        font-weight: bold;
+        transition: 0.4s ease;
+}
+
+.menu1 ul{
+    list-style-type: none;
+}
+
+li{
+    padding-right: 90px ;
+}
+
+.course-items a{
+    cursor: pointer;
+}
+
+
+
+iframe{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.completion-button{
+    width: 852px;
+    height: 20px;
+    padding: 5px;
+    margin-left: 779px;
+    padding-right: 0px;
+    padding-left: 0px;
+    cursor: pointer;
+    color: #0A0AFF;    
+}
+
+.des1{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-style: groove;
+    width: 95%;
+    padding-left: 10px;
+    height: 14px;
+   
+}
+.des2{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-style: groove;
+    width: 95%;
+    padding-left: 10px;
+    height: 14px;
+}
+.des3{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-style: groove;
+    width: 95%;
+    padding-left: 10px;
+    height: 14px;
+   
+}
+.des4{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-style: groove;
+    width: 95%;
+    padding-left: 10px;
+    height: 14px;
+   
+}
+.des5{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-style: groove;
+    width: 95%;
+    padding-left: 10px;
+    height: 14px;
+   
+}
+.des6{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-style: groove;
+    width: 95%;
+    padding-left: 10px;
+    height: 14px;
+}
+.des7{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-style: groove;
+    width: 95%;
+    padding-left: 10px;
+    height: 14px;
+   
+}
+.des8{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-style: groove;
+    width: 95%;
+    padding-left: 10px;
+    height: 14px;
+   
+}
+.des9{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-style: groove;
+    width: 95%;
+    padding-left: 10px;
+    height: 14px;
+}
+.des10{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-style: groove;
+    width: 95%;
+    padding-left: 10px;
+    height: 14px;
+}
+.des11{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-style: groove;
+    width: 95%;
+    padding-left: 10px;
+    height: 14px;
+}
+.des12{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-style: groove;
+    width: 95%;
+    padding-left: 10px;
+    height: 14px;
+   
+}
+.des13{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-style: groove;
+    width: 95%;
+    padding-left: 10px;
+    height: 14px;
+    
+}
